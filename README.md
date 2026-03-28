@@ -1,4 +1,4 @@
-<img width="1432" height="805" alt="Dashboard" src="https://github.com/user-attachments/assets/e53e5079-5604-4f0d-9dc1-7fbd4088e07d" /># Backend API Integration (IT342)
+# Backend API Integration (IT342)
 
 An Android application demonstrating secure user authentication and database synchronization using **Supabase**, **Retrofit 2**, and **PostgreSQL Triggers**.
 
