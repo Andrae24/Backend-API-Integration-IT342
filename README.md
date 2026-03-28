@@ -3,12 +3,16 @@
 An Android application demonstrating secure user authentication and database synchronization using **Supabase**, **Retrofit 2**, and **PostgreSQL Triggers**.
 
 Screenshots:
+
 Log In:
-<img width="1920" height="1080" alt="ChangePassword" src="https://github.com/user-attachments/assets/76d84db3-f694-42a6-a73b-8029cab01234" />
+<img width="1920" height="1080" alt="Login" src="https://github.com/user-attachments/assets/96f093dd-4341-4800-8c1e-cdb5da6d4023" />
+
 Register:
 <img width="1920" height="1080" alt="Register" src="https://github.com/user-attachments/assets/07b42e3d-4f87-4923-ac9f-905b2895195b" />
+
 Dashboard:
 <img width="1432" height="805" alt="Dashboard" src="https://github.com/user-attachments/assets/fc65afc7-a095-462d-bab7-703febc048f5" />
+
 Profile:
 <img width="1920" height="1080" alt="Profile" src="https://github.com/user-attachments/assets/f51203ff-61fb-4059-980b-2a4422a25bfa" />
 
